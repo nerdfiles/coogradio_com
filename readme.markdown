@@ -18,7 +18,7 @@ tooltips of radio stations. Obviously. It's hypermedia data at heart.
 ##Tech Stack
 
 I'd probably do it in Python, or SammyJS. It really doesn't need a backend. Manage it all 
-with markdown files and, of course, a frontend (JS/SASS).
+with markdown files and front-end (JS/SASS).
 
 @contact nerdfiles@gmail.com
 
