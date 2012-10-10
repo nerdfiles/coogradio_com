@@ -15,5 +15,10 @@ It's not about tables. It's about lists. Schematize it, and you'll see a lot mor
 Obviously Google Maps should offer a UI hook for playing a short preview clip within the 
 tooltips of radio stations. Obviously. It's hypermedia data at heart.
 
+##Tech Stack
+
+I'd probably do it in Python, or SammyJS. It really doesn't need a backend. Manage it all 
+with markdown files and, of course, a frontend (JS/SASS).
+
 @contact nerdfiles@gmail.com
 
