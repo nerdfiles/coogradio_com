@@ -2,3 +2,11 @@
 
 A markdown strategy for quickly rendering conceptions of new models and thought 
 experiments to be integrated into schema.org valid systems.
+
+##Markdown Presentation
+
+It's a simple point to make, but name{.sem} should render in markdown presenters,
+like Byword, etc. It's just the assumption of "description" followed by "example". 
+Think of it as "schemadoc" (a la cssdoc, jsdoc, javadoc). It's a schematizing 
+thought-pattern for thinking about things and their analogies with other things.
+
